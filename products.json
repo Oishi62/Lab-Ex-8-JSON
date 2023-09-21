@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "name": "Elegant Floral Dress",
+        "description": "A beautiful floral patterned dress for special occasions.",
+        "price": 2279.99,
+        "image": "images/dress1.jpg"
+      },
+      {
+        "name": "Summer Sun Dress",
+        "description": "Light and comfortable dress perfect for sunny days.",
+        "price": 5849.99,
+        "image": "images/dress2.jpg"
+      },
+      {
+        "name": "Formal Evening Gown",
+        "description": "An exquisite evening gown for formal events.",
+        "price": 41159.99,
+        "image": "images/dress3.jpg"
+      },
+      {
+        "name": "Boho Maxi Dress",
+        "description": "A trendy boho style maxi dress for a relaxed look.",
+        "price": 1069.99,
+        "image": "images/dress4.jpg"
+      },
+      {
+        "name": "Classic Black Dress",
+        "description": "A timeless black dress suitable for various occasions.",
+        "price": 9989.99,
+        "image": "images/dress5.jpg"
+      },
+      {
+        "name": "Vintage Lace Dress",
+        "description": "A charming vintage-style lace dress with intricate details.",
+        "price": 45129.99,
+        "image": "images/dress6.jpg"
+      },
+      {
+        "name": "Floral Print Maxi",
+        "description": "A long and flowy dress featuring a vibrant floral print.",
+        "price": 974.99,
+        "image": "images/dress7.jpg"
+      },
+      {
+        "name": "Casual Midi Dress",
+        "description": "A comfortable midi dress for casual outings.",
+        "price": 1059.99,
+        "image": "images/dress8.jpg"
+      },
+      {
+        "name": "Sleeveless A-Line",
+        "description": "A chic sleeveless A-line dress for a stylish look.",
+        "price": 2554.99,
+        "image": "images/dress9.jpg"
+      },
+      {
+        "name": "Bohemian Beach Dress",
+        "description": "A bohemian-style dress perfect for beach vacations.",
+        "price": 2239.99,
+        "image": "images/dress10.jpg"
+      }
+    ]
+  }
+  
